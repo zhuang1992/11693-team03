@@ -4,14 +4,14 @@ This is the public repository for the team 03, the final project, 11-693.
 
 Our team members include:
 
-  Qiankun Zhuang,
+  * Qiankun Zhuang,
   
-  Jing Li,
+  * Jing Li,
   
-  Handi Xu,
+  * Handi Xu,
   
-  Qiqi Shi,
+  * Qiqi Shi,
   
-  Ruijian Wang,
+  * Ruijian Wang,
 
 Any suggestion will be appreciated. Thanks!
